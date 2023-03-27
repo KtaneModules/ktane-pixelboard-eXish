@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: pixelBoard
+  title: Pixel Board
+  author: eXish
+  description: "This is a reupload of a module, unsubscribe from the old version here:
+    https://steamcommunity.com/sharedfiles/filedetails/?id=2881330323\n\r\nUse flashing
+    directions to identify and navigate a maze.\n\r\nHTML: https://ktane.timwi.de/HTML/Pixel%20Board.html\r\nPDF:
+    https://ktane.timwi.de/PDF/Pixel%20Board.pdf\r\n\r\nPixel Board (pixelBoard) v1.5\nModule
+    by BakersDozenBagels, maintained by eXish\r\nTwitch Plays supported"
+  version: 1.5
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 73335f374d6e1ce4eb202d95eaabb42a, type: 3}
